@@ -4,6 +4,7 @@ Add-Salt_Pepper_noise
 This is a program that add salt&pepper noise to an image and remove them using media filter. (I write this code in ubuntu)
 
 step1:
+
 first we have an image :
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/Add-Salt_Pepper_noise/master/original.png)
@@ -22,3 +23,4 @@ the effetc:
 
 ![alt tag] (https://raw.githubusercontent.com/timlentse/Add-Salt_Pepper_noise/master/the%20effect%20of%20media%20filter.png)
 
+now the code is in main.cpp,i also add the add-guassian-noise section,and you can try different pa,pb of salt-pepper noise and differnet sigma,mean of guassian-noise.
