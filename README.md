@@ -5,7 +5,7 @@ This is a program that add salt&pepper noise to an image and remove them using m
 
 step1:
 
-first we have an image :
+first we have an image :(lena for example)
 
 ![alt tag](https://raw.githubusercontent.com/timlentse/Add-Salt_Pepper_noise/master/original.png)
 
@@ -19,7 +19,7 @@ I add salt&pepper noise to the above image and the result is the following:(I se
 step3:
 
 after step2 we have an noise-image,so we can remove the salt-pepper using media filter
-the effetc:
+the effect:
 
 ![alt tag] (https://raw.githubusercontent.com/timlentse/Add-Salt_Pepper_noise/master/the%20effect%20of%20media%20filter.png)
 
