@@ -1,4 +1,4 @@
-Add-Salt_Pepper_noise
+Add-Salt-Pepper_Noise
 =====================
 
 This is a program that add salt&pepper noise to an image and remove them using media filter. (I write this code in ubuntu)
