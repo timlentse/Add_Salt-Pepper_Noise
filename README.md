@@ -4,9 +4,9 @@ Add Salt&Pepper Noise
 
 1.you should have  Opencv installed on your PC
 
-2. QT(suggested) or V
+2.QT(suggested) or VS
 
-3. Some c++  standard libs
+3.Some c++  standard libs
 
 Notes: This is a project for  adding  salt&pepper noise to an image and remove them using median filter (I write this code in ubuntu 14.04)
 
