@@ -25,6 +25,6 @@ After step2 we will generate an noise-image,  we can remove the salt-pepper nois
 [median filter](http://en.wikipedia.org/wiki/Median_filter) 
 And the effect:
 
-<img href=https://raw.githubusercontent.com/timlentse/Add-Salt_Pepper_noise/master/the%20effect%20of%20media%20filter.png>
+![alt tag](https://raw.githubusercontent.com/timlentse/Add-Salt_Pepper_noise/master/the%20effect%20of%20media%20filter.png)
 
 Note that the code is in main.cpp, I also add the `add-guassian-noise` section,again you can try different pa,pb of salt-pepper noise and different sigma,mean of guassian-noise.
